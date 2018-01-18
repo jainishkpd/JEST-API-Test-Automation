@@ -4,7 +4,7 @@ $ npm test
 
 TO RUN TEST WITH COVERGAE
 
-$ pm test -- --coverage
+$ npm test -- --coverage
 
 Pre-requisits:
 Execute command $ npm install from root directory.
@@ -16,5 +16,7 @@ JavaScript libraries used:
 1. NodeJS
 2. Jest
 3. ExpectJS
+
+Test Report - HTML report generated at ./coverage/lcov-report directory.
 
 
