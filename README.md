@@ -7,7 +7,7 @@ TO RUN TEST WITH COVERGAE
 $ npm test -- --coverage
 
 Pre-requisits:
-Execute command $ npm install from root directory.
+Execute command $ npm install from project root directory.
 
 Description: Project Development for API Automation platform with JEST Test Automation framework built on top of NodeJS.
 Revision: On Going Project
@@ -17,6 +17,6 @@ JavaScript libraries used:
 2. Jest
 3. ExpectJS
 
-Test Report - HTML report generated at ./coverage/lcov-report directory.
+Test Report - HTML report test execution generates at ./coverage/lcov-report directory.
 
 
