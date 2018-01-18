@@ -1,10 +1,10 @@
 TO RUN TEST
 
-npm test
+$ npm test
 
 TO RUN TEST WITH COVERGAE
 
-npm test -- --coverage
+$ pm test -- --coverage
 
 Pre-requisits:
 Execute command $ npm install from root directory.
