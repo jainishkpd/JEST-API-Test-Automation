@@ -7,6 +7,7 @@ TO RUN TEST WITH COVERGAE
 $ npm test -- --coverage
 
 Pre-requisits:
+NodeJS pre-install on your linux machine.
 Execute command $ npm install from project root directory.
 
 Description: Project Development for API Automation platform with JEST Test Automation framework built on top of NodeJS.
